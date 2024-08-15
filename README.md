@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **veswar5813@gmail.com**
 
-- 📄 Know about my experiences [Web Development and Machine Learning](Web Development and Machine Learning)
+- 📄 Know about my experiences [Web Development and Machine Learning]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
